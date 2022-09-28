@@ -4,4 +4,4 @@ An incentive compatible auction management system written in C#, that effectivel
 
 Requires the ActressMAS library
 
-Main logic is contained in AuctionAgent.cs
+Main logic is contained in MAS/AuctionAgent.cs
